@@ -1,0 +1,508 @@
+Client logs:
+Folder created successfully: base_test_dir
+Folder created successfully: base_test_dir/single_client_test_1
+Created directory: base_test_dir/single_client_test_1
+Folder created successfully: base_test_dir/single_client_test_2
+Created directory: base_test_dir/single_client_test_2
+Folder created successfully: base_test_dir/single_client_test_3
+Created directory: base_test_dir/single_client_test_3
+Folder created successfully: base_test_dir/single_client_test_4
+Created directory: base_test_dir/single_client_test_4
+Folder created successfully: base_test_dir/single_client_test_5
+Created directory: base_test_dir/single_client_test_5
+File sent successfully: temp.txt
+PUT file: base_test_dir/single_client_test_file_1.txt with content: 6NWDYa4K5P3mg15Nv5O5bgeyWrFC7kgE
+File sent successfully: temp.txt
+PUT file: base_test_dir/single_client_test_file_2.txt with content: 1nkWcaNCQeH3JmzUvCTwCqdFdwR8FjGG
+File sent successfully: temp.txt
+PUT file: base_test_dir/single_client_test_file_3.txt with content: 8bSc5ARp87K3WCYKJ4jgrAAHc15XFN5j
+File sent successfully: temp.txt
+PUT file: base_test_dir/single_client_test_file_4.txt with content: Tv1mpoiDQckMLdjqEvStQsFPDo7apPJo
+File sent successfully: temp.txt
+PUT file: base_test_dir/single_client_test_file_5.txt with content: CtJT5MocofE0tvH7lHhEiy9RwNL3xDoj
+File information:
+File: base_test_dir/single_client_test_file_1.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:36
+
+INFO for file: base_test_dir/single_client_test_file_1.txt
+File information:
+File: base_test_dir/single_client_test_file_2.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:36
+
+INFO for file: base_test_dir/single_client_test_file_2.txt
+File information:
+File: base_test_dir/single_client_test_file_3.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+INFO for file: base_test_dir/single_client_test_file_3.txt
+File information:
+File: base_test_dir/single_client_test_file_4.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+INFO for file: base_test_dir/single_client_test_file_4.txt
+File information:
+File: base_test_dir/single_client_test_file_5.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+INFO for file: base_test_dir/single_client_test_file_5.txt
+File saved successfully: local_copy_1.txt
+GET file: base_test_dir/single_client_test_file_1.txt to local file: local_copy_1.txt
+File saved successfully: local_copy_2.txt
+GET file: base_test_dir/single_client_test_file_2.txt to local file: local_copy_2.txt
+File saved successfully: local_copy_3.txt
+GET file: base_test_dir/single_client_test_file_3.txt to local file: local_copy_3.txt
+File saved successfully: local_copy_4.txt
+GET file: base_test_dir/single_client_test_file_4.txt to local file: local_copy_4.txt
+File saved successfully: local_copy_5.txt
+GET file: base_test_dir/single_client_test_file_5.txt to local file: local_copy_5.txt
+Running concurrent tests...
+Folder created successfully: base_test_dir/client_1
+Folder created successfully: base_test_dir/client_2
+Folder created successfully: base_test_dir/client_3
+Folder created successfully: base_test_dir/client_4
+Client 1 created directory: base_test_dir/client_1/nested_1
+Client 2 created directory: base_test_dir/client_2/nested_1
+Folder created successfully: base_test_dir/client_5
+Client 1 created directory: base_test_dir/client_1/nested_2
+Client 2 created directory: base_test_dir/client_2/nested_2
+Client 4 created directory: base_test_dir/client_4/nested_1
+Client 2 created directory: base_test_dir/client_2/nested_3
+Client 1 created directory: base_test_dir/client_1/nested_3
+Client 5 created directory: base_test_dir/client_5/nested_1
+Client 4 created directory: base_test_dir/client_4/nested_2
+Client 2 created directory: base_test_dir/client_2/nested_4
+Client 1 created directory: base_test_dir/client_1/nested_4
+Client 5 created directory: base_test_dir/client_5/nested_2
+Client 4 created directory: base_test_dir/client_4/nested_3
+Client 2 created directory: base_test_dir/client_2/nested_5
+Client 5 created directory: base_test_dir/client_5/nested_3
+Client 1 created directory: base_test_dir/client_1/nested_5
+Client 4 created directory: base_test_dir/client_4/nested_4
+Client 5 created directory: base_test_dir/client_5/nested_4
+Client 4 created directory: base_test_dir/client_4/nested_5
+Client 5 created directory: base_test_dir/client_5/nested_5
+Client 3 created directory: base_test_dir/client_3/nested_1
+Client 3 created directory: base_test_dir/client_3/nested_2
+Client 3 created directory: base_test_dir/client_3/nested_3
+Folder created successfully: base_test_dir/client_1/nested_3
+Client 3 created directory: base_test_dir/client_3/nested_4
+Client 3 created directory: base_test_dir/client_3/nested_5
+Folder created successfully: base_test_dir/client_4/nested_1
+Folder created successfully: base_test_dir/client_4/nested_3
+Folder created successfully: base_test_dir/client_2/nested_4
+Folder created successfully: base_test_dir/client_2/nested_3
+Folder created successfully: base_test_dir/client_5/nested_3
+Folder created successfully: base_test_dir/client_2/nested_5
+Folder created successfully: base_test_dir/client_2/nested_2
+Folder created successfully: base_test_dir/client_5/nested_2
+Folder created successfully: base_test_dir/client_1/nested_1
+Folder created successfully: base_test_dir/client_3/nested_4
+Folder created successfully: base_test_dir/client_2/nested_1
+Folder created successfully: base_test_dir/client_5/nested_4
+Folder created successfully: base_test_dir/client_4/nested_5
+Folder created successfully: base_test_dir/client_5/nested_1
+Folder created successfully: base_test_dir/client_4/nested_4
+Folder created successfully: base_test_dir/client_3/nested_2
+Folder created successfully: base_test_dir/client_5/nested_5
+Folder created successfully: base_test_dir/client_3/nested_1
+Folder created successfully: base_test_dir/client_1/nested_2
+Folder created successfully: base_test_dir/client_3/nested_3
+Folder created successfully: base_test_dir/client_4/nested_2
+Folder created successfully: base_test_dir/client_1/nested_4
+Folder created successfully: base_test_dir/client_1/nested_5
+Folder created successfully: base_test_dir/client_3/nested_5
+Client 2 PUT file: base_test_dir/client_2/client_file_1.txt with content: DArkQIwRTWkuSNbM7Ud5awmh3ObqhSBH
+Client 5 PUT file: base_test_dir/client_5/client_file_1.txt with content: s7bQ9VflaxG3HUQ91PgF6qdqglxRVdBk
+Client 4 PUT file: base_test_dir/client_4/client_file_1.txt with content: xCQH8IkM1c1WdKtwatWa9G6h5fN9NoWz
+Client 3 PUT file: base_test_dir/client_3/client_file_1.txt with content: 64p1U92uZzltvyWtqEQGGWB5YrnevXGj
+Client 2 PUT file: base_test_dir/client_2/client_file_2.txt with content: v54iOiRrczUjDAurO3HMwYUQbTOIOuOL
+Client 4 PUT file: base_test_dir/client_4/client_file_2.txt with content: rWgOxYSjklj0vsVt34U6eWOTHVkOjWJG
+Client 5 PUT file: base_test_dir/client_5/client_file_2.txt with content: cY9ErxPXJnb3hQlfywZrC8vhLJkDOTut
+Client 3 PUT file: base_test_dir/client_3/client_file_2.txt with content: 1n4rv6zJF5omY0kFVMXXVKS4roar8J8a
+Client 1 PUT file: base_test_dir/client_1/client_file_1.txt with content: 7t8VWkER5hKa22S7Uo1o9GLiH8rFrnDH
+Client 2 PUT file: base_test_dir/client_2/client_file_3.txt with content: auDKoHarGTEOexYW0jx8kclFXaiIpgoL
+Client 5 PUT file: base_test_dir/client_5/client_file_3.txt with content: S21d61G4Gh9rLR12bHM5Yerc59k5dNdr
+Client 4 PUT file: base_test_dir/client_4/client_file_3.txt with content: 3a07i996z2iIRG4lTA7K8o9oHpDdoM62
+Client 1 PUT file: base_test_dir/client_1/client_file_2.txt with content: 4urmNOU8F6UEo2ZtGGI6hvIqgtxe550N
+Client 3 PUT file: base_test_dir/client_3/client_file_3.txt with content: hzjDE3TnXq8NhTDgFdlPPdudSfS5njKy
+Client 5 PUT file: base_test_dir/client_5/client_file_4.txt with content: pqT1OtRirGMF9b0eTdPRNOgZ9AwxshUV
+Client 2 PUT file: base_test_dir/client_2/client_file_4.txt with content: GHhcv7zqpcAyDjggBw5zPg6Ek7ZtOe9d
+Client 1 PUT file: base_test_dir/client_1/client_file_3.txt with content: tQGddXqIaKzxwX1xyJfhXmtaDMqnVyDq
+Client 5 PUT file: base_test_dir/client_5/client_file_5.txt with content: fDOeD5I0H81zbY7ygxS08nKb982xsOVJ
+Client 2 PUT file: base_test_dir/client_2/client_file_5.txt with content: 5quodUv5rD4EuFWJ8V598jtIQAPcfQ5T
+Client 4 PUT file: base_test_dir/client_4/client_file_4.txt with content: OfqbZ7gKViwzm4mlcHqzZoy6ZufOaN2v
+Client 3 PUT file: base_test_dir/client_3/client_file_4.txt with content: KBxOGzspxBAo9BaFkjvxfKKFk79d86Ow
+Client 1 PUT file: base_test_dir/client_1/client_file_4.txt with content: p6n0Bzn2p3R3HngN14DGTKGvmz7lSLNt
+Client 4 PUT file: base_test_dir/client_4/client_file_5.txt with content: ChI0RWJ3azM8rke45r64pXKmEUPsK3AC
+Client 3 PUT file: base_test_dir/client_3/client_file_5.txt with content: zX59ks3qjvEFxQranLRzKcqaz9gWoAKS
+Client 1 PUT file: base_test_dir/client_1/client_file_5.txt with content: fDMZiOjorxepZso35tJJDlAo4tF6phRe
+File sent successfully: temp_2.txt
+File sent successfully: temp_1.txt
+File sent successfully: temp_4.txt
+File sent successfully: temp_1.txt
+File sent successfully: temp_2.txt
+File sent successfully: temp_4.txt
+File sent successfully: temp_1.txt
+File sent successfully: temp_5.txt
+File sent successfully: temp_2.txt
+File sent successfully: temp_4.txt
+File sent successfully: temp_5.txt
+File sent successfully: temp_4.txt
+File sent successfully: temp_5.txt
+File sent successfully: temp_3.txt
+File sent successfully: temp_2.txt
+File sent successfully: temp_1.txt
+File sent successfully: temp_3.txt
+File sent successfully: temp_2.txt
+File sent successfully: temp_3.txt
+File sent successfully: temp_5.txt
+File sent successfully: temp_3.txt
+File sent successfully: temp_1.txt
+File sent successfully: temp_4.txt
+File sent successfully: temp_3.txt
+File sent successfully: temp_5.txt
+Client 1 INFO for file: base_test_dir/client_1/client_file_1.txt
+Client 2 INFO for file: base_test_dir/client_2/client_file_1.txt
+Client 3 INFO for file: base_test_dir/client_3/client_file_1.txt
+Client 4 INFO for file: base_test_dir/client_4/client_file_1.txt
+Client 2 INFO for file: base_test_dir/client_2/client_file_2.txt
+Client 1 INFO for file: base_test_dir/client_1/client_file_2.txt
+Client 5 INFO for file: base_test_dir/client_5/client_file_1.txt
+Client 3 INFO for file: base_test_dir/client_3/client_file_2.txt
+Client 2 INFO for file: base_test_dir/client_2/client_file_3.txt
+Client 4 INFO for file: base_test_dir/client_4/client_file_2.txt
+Client 1 INFO for file: base_test_dir/client_1/client_file_3.txt
+Client 5 INFO for file: base_test_dir/client_5/client_file_2.txt
+Client 3 INFO for file: base_test_dir/client_3/client_file_3.txt
+Client 2 INFO for file: base_test_dir/client_2/client_file_4.txt
+Client 4 INFO for file: base_test_dir/client_4/client_file_3.txt
+Client 1 INFO for file: base_test_dir/client_1/client_file_4.txt
+Client 3 INFO for file: base_test_dir/client_3/client_file_4.txt
+Client 5 INFO for file: base_test_dir/client_5/client_file_3.txt
+Client 2 INFO for file: base_test_dir/client_2/client_file_5.txt
+Client 4 INFO for file: base_test_dir/client_4/client_file_4.txt
+Client 1 INFO for file: base_test_dir/client_1/client_file_5.txt
+Client 3 INFO for file: base_test_dir/client_3/client_file_5.txt
+Client 5 INFO for file: base_test_dir/client_5/client_file_4.txt
+Client 4 INFO for file: base_test_dir/client_4/client_file_5.txt
+Client 5 INFO for file: base_test_dir/client_5/client_file_5.txt
+File information:
+File: base_test_dir/client_1/client_file_1.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_2/client_file_1.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_2/client_file_5.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_3/client_file_3.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: dialout:x
+File information:
+File: base_test_dir/client_1/client_file_5.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_2/client_file_3.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_1/client_file_4.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_3/client_file_4.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_2/client_file_2.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_5/client_file_2.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_2/client_file_4.txt
+Size: 0 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_5/client_file_3.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_5/client_file_1.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_3/client_file_2.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+Client 2 GET file: base_test_dir/client_2/client_file_1.txt to local file: local_copy_2.txt
+File information:
+File: base_test_dir/client_4/client_file_4.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_5/client_file_5.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_5/client_file_4.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+Client 2 GET file: base_test_dir/client_2/client_file_2.txt to local file: local_copy_2.txt
+File information:
+File: base_test_dir/client_1/client_file_3.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_4/client_file_3.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: avahi
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_3/client_file_5.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+Client 2 GET file: base_test_dir/client_2/client_file_3.txt to local file: local_copy_2.txt
+File information:
+File: base_test_dir/client_1/client_file_2.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_4/client_file_5.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_4/client_file_1.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+Client 2 GET file: base_test_dir/client_2/client_file_4.txt to local file: local_copy_2.txt
+File information:
+File: base_test_dir/client_3/client_file_1.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+File information:
+File: base_test_dir/client_4/client_file_2.txt
+Size: 33 bytes
+Permissions: -rw-r--r--
+Owner: kyle
+Group: kyle
+Last modified: 2023-04-25 05:37:38
+
+Client 2 GET file: base_test_dir/client_2/client_file_5.txt to local file: local_copy_2.txt
+Client 1 GET file: base_test_dir/client_1/client_file_1.txt to local file: local_copy_1.txt
+Client 4 GET file: base_test_dir/client_4/client_file_1.txt to local file: local_copy_4.txt
+Client 1 GET file: base_test_dir/client_1/client_file_2.txt to local file: local_copy_1.txt
+Client 4 GET file: base_test_dir/client_4/client_file_2.txt to local file: local_copy_4.txt
+Client 1 GET file: base_test_dir/client_1/client_file_3.txt to local file: local_copy_1.txt
+Client 4 GET file: base_test_dir/client_4/client_file_3.txt to local file: local_copy_4.txt
+Client 1 GET file: base_test_dir/client_1/client_file_4.txt to local file: local_copy_1.txt
+Client 4 GET file: base_test_dir/client_4/client_file_4.txt to local file: local_copy_4.txt
+Client 1 GET file: base_test_dir/client_1/client_file_5.txt to local file: local_copy_1.txt
+Client 3 GET file: base_test_dir/client_3/client_file_1.txt to local file: local_copy_3.txt
+Client 4 GET file: base_test_dir/client_4/client_file_5.txt to local file: local_copy_4.txt
+Client 5 GET file: base_test_dir/client_5/client_file_1.txt to local file: local_copy_5.txt
+Client 3 GET file: base_test_dir/client_3/client_file_2.txt to local file: local_copy_3.txt
+Client 5 GET file: base_test_dir/client_5/client_file_2.txt to local file: local_copy_5.txt
+Client 5 GET file: base_test_dir/client_5/client_file_3.txt to local file: local_copy_5.txt
+Client 3 GET file: base_test_dir/client_3/client_file_3.txt to local file: local_copy_3.txt
+Client 5 GET file: base_test_dir/client_5/client_file_4.txt to local file: local_copy_5.txt
+Client 3 GET file: base_test_dir/client_3/client_file_4.txt to local file: local_copy_3.txt
+Client 5 GET file: base_test_dir/client_5/client_file_5.txt to local file: local_copy_5.txt
+Client 3 GET file: base_test_dir/client_3/client_file_5.txt to local file: local_copy_3.txt
+File saved successfully: local_copy_2.txt
+File saved successfully: local_copy_2.txt
+File saved successfully: local_copy_2.txt
+File saved successfully: local_copy_2.txt
+File saved successfully: local_copy_2.txt
+File saved successfully: local_copy_5.txt
+Client 2 RM file: base_test_dir/client_2/client_file_1.txt
+Client 2 RM file: base_test_dir/client_2/client_file_2.txt
+Client 2 RM file: base_test_dir/client_2/client_file_3.txt
+Client 2 RM file: base_test_dir/client_2/client_file_4.txt
+Client 2 RM file: base_test_dir/client_2/client_file_5.txt
+File saved successfully: local_copy_1.txt
+File saved successfully: local_copy_1.txt
+File saved successfully: local_copy_4.txt
+File saved successfully: local_copy_4.txt
+File saved successfully: local_copy_4.txt
+File saved successfully: local_copy_4.txt
+File saved successfully: local_copy_1.txt
+File saved successfully: local_copy_3.txt
+File saved successfully: local_copy_5.txt
+File saved successfully: local_copy_3.txt
+File saved successfully: local_copy_1.txt
+File saved successfully: local_copy_3.txt
+File saved successfully: local_copy_5.txt
+File saved successfully: local_copy_5.txt
+File saved successfully: local_copy_3.txt
+File saved successfully: local_copy_3.txt
+File saved successfully: local_copy_1.txt
+File saved successfully: local_copy_5.txt
+File saved successfully: local_copy_4.txt
+Client 3 RM file: base_test_dir/client_3/client_file_1.txt
+Client 3 RM file: base_test_dir/client_3/client_file_2.txt
+Client 5 RM file: base_test_dir/client_5/client_file_1.txt
+Client 1 RM file: base_test_dir/client_1/client_file_1.txt
+Client 4 RM file: base_test_dir/client_4/client_file_1.txt
+Client 3 RM file: base_test_dir/client_3/client_file_3.txt
+Client 5 RM file: base_test_dir/client_5/client_file_2.txt
+Client 1 RM file: base_test_dir/client_1/client_file_2.txt
+Client 4 RM file: base_test_dir/client_4/client_file_2.txt
+Client 3 RM file: base_test_dir/client_3/client_file_4.txt
+Client 4 RM file: base_test_dir/client_4/client_file_3.txt
+Client 5 RM file: base_test_dir/client_5/client_file_3.txt
+Client 1 RM file: base_test_dir/client_1/client_file_3.txt
+Client 3 RM file: base_test_dir/client_3/client_file_5.txt
+Client 4 RM file: base_test_dir/client_4/client_file_4.txt
+Client 5 RM file: base_test_dir/client_5/client_file_4.txt
+Client 1 RM file: base_test_dir/client_1/client_file_4.txt
+Client 4 RM file: base_test_dir/client_4/client_file_5.txt
+Client 5 RM file: base_test_dir/client_5/client_file_5.txt
+Client 1 RM file: base_test_dir/client_1/client_file_5.txt
+File deleted successfully: base_test_dir/client_2/client_file_4.txt
+File deleted successfully: base_test_dir/client_2/client_file_3.txt
+File deleted successfully: base_test_dir/client_2/client_file_1.txt
+File deleted successfully: base_test_dir/client_2/client_file_2.txt
+File deleted successfully: base_test_dir/client_2/client_file_5.txt
+File deleted successfully: base_test_dir/client_3/client_file_1.txt
+File deleted successfully: base_test_dir/client_3/client_file_2.txt
+File deleted successfully: base_test_dir/client_3/client_file_3.txt
+File deleted successfully: base_test_dir/client_3/client_file_5.txt
+File deleted successfully: base_test_dir/client_5/client_file_1.txt
+File deleted successfully: base_test_dir/client_4/client_file_3.txt
+File deleted successfully: base_test_dir/client_5/client_file_3.txt
+File deleted successfully: base_test_dir/client_4/client_file_2.txt
+File deleted successfully: base_test_dir/client_1/client_file_3.txt
+File deleted successfully: base_test_dir/client_5/client_file_5.txt
+File deleted successfully: base_test_dir/client_5/client_file_4.txt
+File deleted successfully: base_test_dir/client_1/client_file_1.txt
+File deleted successfully: base_test_dir/client_1/client_file_2.txt
+File deleted successfully: base_test_dir/client_1/client_file_5.txt
+File deleted successfully: base_test_dir/client_4/client_file_4.txt
+File deleted successfully: base_test_dir/client_1/client_file_4.txt
+File deleted successfully: base_test_dir/client_3/client_file_4.txt
+File deleted successfully: base_test_dir/client_4/client_file_1.txt
+File deleted successfully: base_test_dir/client_4/client_file_5.txt
+File deleted successfully: base_test_dir/client_5/client_file_2.txt
+File deleted successfully: base_test_dir
+Concurrent tests completed.
